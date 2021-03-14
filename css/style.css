@@ -743,7 +743,7 @@ ABOUT SECTION
 .code, .design {
   flex: 0 0 100%;
   max-width: 50%;
-  margin-bottom: 100px;
+  margin-bottom: 65px;
 }
 
 .about-section .skills .skill-item {
