@@ -34,9 +34,9 @@ Global style
 ================ */
 body.dark{
   --bg-black-900: #ffffff;
-  --bg-black-100: #2d323b;
-  --bg-black-50: #2d323b;
-  --bg-opacity: #2d323b83;
+  --bg-black-100: #282c34;
+  --bg-black-50: #282c34;
+  --bg-opacity: #3b2f2d83;
   --text-black-900: #ffffff;
   --text-black-700: #ffffff;
   --text-black-600: #bbbbbb;
@@ -48,7 +48,7 @@ body.dark{
   --black-alpha-color: rgba(0, 0, 0, 0.7);
   --bg-modal: var(--skin-color);
   --text-modal: #ffffff;
-  --seleccion-text: #2d323b;
+  --seleccion-text: #282c34;
   --scroll-background: #616c80;
   --scroll-barra: #3f4653;
 }
@@ -201,14 +201,14 @@ LOGOTIPO
   width: 30px;
   height: 30px;
   border: 4px solid #e5b655;
-  right: 10%;
+  right: 8%;
   bottom: 10%;
   animation: spin 10s linear infinite;
 }
 
 .effect-2 {
   left: 3%;
-  bottom: 20%;
+  bottom: 10%;
   width: 40px;
   display: flex;
   flex-wrap: wrap;
